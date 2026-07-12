@@ -59,11 +59,6 @@ Deepfake-Image-Detection/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
-├── images/
-│   ├── generated_faces.png
-│   ├── training_loss.png
-│   └── sample_dataset.png
-└── .gitignore
 ```
 
 ---
@@ -154,6 +149,20 @@ The model successfully learns meaningful facial features through adversarial tra
 * Visualized training performance using loss curves
 
 ---
+
+## 📊 Model Performance
+
+The model was evaluated after training on the CelebA dataset.
+
+| Metric | Value |
+|--------|-------:|
+| Training Accuracy | **87.63%** |
+| Loss Function | Binary Cross Entropy (BCEWithLogitsLoss) |
+| Optimizer | Adam |
+| Framework | PyTorch |
+| Dataset | CelebA Face Dataset |
+
+The trained DCGAN successfully learned meaningful facial representations and demonstrated high accuracy in distinguishing between real and generated images.
 
 ## 📸 Sample Outputs
 
