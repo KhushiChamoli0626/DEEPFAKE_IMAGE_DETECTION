@@ -164,23 +164,7 @@ The model was evaluated after training on the CelebA dataset.
 
 The trained DCGAN successfully learned meaningful facial representations and demonstrated high accuracy in distinguishing between real and generated images.
 
-## 📸 Sample Outputs
-
-Add screenshots here after training.
-
-### Generated Faces
-
-```
-Insert generated_faces.png
-```
-
-### Training Loss
-
-```
-Insert training_loss.png
-```
-
----
+All the sample outputs are present with the code in DEEPFAKE_IMAGE_PREDICTION.ipynb file.
 
 ## 💡 Applications
 
