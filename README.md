@@ -228,15 +228,5 @@ This project is licensed under the **MIT License**.
 
 **Khushi Chamoli**
 
-B.Tech CSE (AI, ML & Robotics)
-
-DIT University
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
 ---
-
-⭐ If you found this project useful, consider giving the repository a star!
 
